@@ -1,11 +1,8 @@
-# Awesome Career Pages
-## 💻 An awesome list of job portals and career pages of top Startups, Product Based and Service Based Companies Along with the list of websites that are the best to find new openings📰🔥!!
 
-<img src="https://emoji.discord.st/emojis/DiscordLuv.gif" height="30" width="30">Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+# Career Pages List
+## This repo is originally created by [CSwala](https://github.com/CSwala/awesome-career-pages). I have forked and modified it to add more Indonesia Company. If you want to add more Indonesia company, you can do a PR or [contact me](t.me/trisbman)
 
-💻💻Follow us on [LinkedIn](https://www.linkedin.com/company/cswala)
-
-
+<!--
 ![GitHub forks](https://img.shields.io/github/forks/CSwala/awesome-career-pages)
 ![GitHub Repo stars](https://img.shields.io/github/stars/CSwala/awesome-career-pages)
 <br>
@@ -14,6 +11,27 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
+-->
+
+## 1. Indonesian Company
+
+### [BukaLapak](https://careers.bukalapak.com/jobs)
+
+### [Gojek](https://www.gojek.io/careers/)
+
+### [NiagaHoster](https://www.niagahoster.co.id/karir)
+
+### [Stockbit/Bibit](https://apply.workable.com/stockbit/#jobs)
+
+### [Traveloka](https://www.traveloka.com/en-id/careers)
+
+## 2. Company in Indonesia
+
+### [Grab](https://grab.careers/locations-indonesia/?ct=ID)
+
+### [Shopee](https://careers.shopee.co.id/)
+
+## 3. Other Company
 
 ### [(24)7.ai ](https://www.247.ai/career-search)
 
@@ -285,13 +303,11 @@
 
 ### [Grofers](https://grofers.com/careers/)
 
-### [Gojek](https://www.gojek.io/careers/)
 
 ### [GitHub](https://github.com/about/careers)
 
 ### [Goldman Sachs](https://www.goldmansachs.com/careers/)
 
-### [Grab](https://grab.careers/)
 
 ### [Google](https://careers.google.com/)
 
@@ -771,6 +787,7 @@
 
 ### [Zynga](https://www.zynga.com/jobs/careers/)
 
+<!--
 <br>
 
 ## Contribution Guidelines ⚙️
@@ -789,3 +806,4 @@ This project follows the [MIT License](https://choosealicense.com/licenses/mit/)
 <br>
 <br>
 <h2 align="center">If you liked the project don't forget to 🌟 and 🍽 the project.</h2>
+-->
